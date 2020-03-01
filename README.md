@@ -1,2 +1,3 @@
 # drupal_commerce
- This Files for enable commerce without composer
+This folder and files for enable commerce without composer. 
+just paste it in drupal root folder.
